@@ -1,0 +1,79 @@
+/* src/App.css */
+
+/* You can add custom styles here if needed. For example: */
+
+/* Example: Adjusting modal styling */
+/* .modal-content {
+  background-color: #333;
+  padding: 2rem;
+  border-radius: 0.5rem;
+} */
+
+/* Example: Customizing the movie title overlay */
+/* .movie-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  text-align: center;
+} */
+
+/* Example: Adjusting the loading spinner */
+/* .loading-spinner {
+  border-color: #6b7280;
+  border-top-color: #8b5cf6;
+} */
+
+/* Example: Adjusting the header */
+/* header {
+    background-color: #111;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+} */
+
+/* Example: Adjusting the movie poster grid */
+/* .movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+} */
+
+/* Example: Adjusting the movie poster images */
+/* .movie-poster {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+} */
+
+/* Example: Adjusting the close button on the modal */
+/* .close-button {
+    background-color: #e53e3e;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+} */
+
+/* Example: Adjusting the movie modal container */
+/* .movie-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* Example: Adjusting the movie modal content area */
+/* .movie-modal-content {
+    background-color: #2d3748;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    max-width: 80%;
+    max-height: 80%;
+    overflow-y: auto;
+} */
